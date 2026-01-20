@@ -1,0 +1,14 @@
+# Entorno virtual
+venv/
+.venv/
+
+# Caché de herramientas
+.ruff_cache/
+
+# Archivos de datos y notebooks (según tu preferencia)
+*.npz
+*.ipynb
+
+# Carpetas de Python innecesarias
+__pycache__/
+*.py[cod]
