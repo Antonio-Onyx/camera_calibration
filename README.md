@@ -1,5 +1,7 @@
 # CanSat Camera Calibration Tool
 
+![look de la interfaz](assets/imagen_interfaz.png)
+
 Este proyecto es una herramienta de interfaz grafica diseñada para la calibracion de camaras utilizadas en proyectos CanSat. Permite procesar un conjunto de imagenes de un patron de calibracion para obtener los parametros intrinsecos y los coeficientes de distorsion de la lente.
 
 ## Funcionalidades
